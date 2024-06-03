@@ -1,7 +1,7 @@
 ﻿using DesignBusinessCore.BusinessCore;
 using DesignBusinessCore.Implementation;
 
-// on web service
+// on web service (nice syntax for encapsulation concrete class to interface base)
 //services.AddScope<IPingHandler, PingHandler>();
 
 // manual used
